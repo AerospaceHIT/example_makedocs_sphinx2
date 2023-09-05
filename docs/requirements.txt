@@ -4,10 +4,9 @@
 
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 073647519566bcd95aa66219423db4b357c65a35
+
+
 myst-parser
 sphinx_markdown_tables
 sphinx_rtd_theme
